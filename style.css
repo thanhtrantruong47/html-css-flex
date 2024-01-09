@@ -207,3 +207,14 @@
     
 }
 
+.flex-direction{
+    display: flex;
+    flex-wrap: wrap;  
+    align-items: center; 
+    flex-direction: row;
+    overflow: scroll;  
+    background-color: DodgerBlue;
+    width: 800px;
+    height: 600px;
+}
+
