@@ -1,0 +1,202 @@
+.box1 {
+  text-align: center;
+  background-color: #f1f1f1;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  line-height: 75px;
+}
+
+.box2 {
+  text-align: center;
+  background-color: #f1f1f1;
+  width: 100px;
+  height: 200px;
+  margin: 10px;
+}
+
+.strecth {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-content: stretch;
+  width: 400px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.flex-start {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  width: 400px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.flex-end {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-content: flex-end;
+  width: 400px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.flex-center {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-content: center;
+  width: 400px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.flex-between {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-content: space-between;
+  width: 400px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.flex-around {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-content: space-around;
+  width: 400px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.flex-align-flex-start {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  width: 800px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.flex-align-flex-end {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  width: 800px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.flex-align-flex-center {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 800px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.flex-align-flex-baseline {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-items: baseline;
+  width: 800px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.flex-align-flex-self {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-self: auto;
+  align-items: center;
+  width: 800px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.flex-align-flex-self-start {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 800px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.start {
+  align-self: flex-start;
+}
+
+.flex-align-flex-self-end {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 800px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.end {
+  align-self: flex-end;
+}
+
+.flex-align-flex-self-center {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  width: 800px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.center {
+  align-self: center;
+}
+
+.flex-align-flex-self-baseline {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 800px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.baseline {
+  align-self: baseline;
+}
+
+.flex-align-flex-self-stretch {
+  background-color: #1e90ff;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 800px;
+  height: 600px;
+  display: flex;
+  overflow: scroll;
+}
+
+.stretch {
+  align-self: stretch;
+}
+
+.box3 {
+  width: 100px;
+}
+
+/*# sourceMappingURL=index.c71ed629.css.map */
